@@ -1,5 +1,4 @@
 # Praevidens
-# **Praevidens**
 #### Término Latino que significa "El que ve antes” o “El que preveé”
 #### Sistema de Predicción de Riesgo Laboral.
 Modelo ML que permite predecir el nivel de riesgo y el indice de riesgo laboral en función de features de seguridad laboral para que las empresas puedan crear estrategias adecuadas que permitan optimizar la prevención y reducir los costos de siniestralidad.  
