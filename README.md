@@ -10,3 +10,5 @@ Basado en los datos de 2024 de OSHA (Occupational Safety and Health Administrati
 - **Streamlit** para la interfaz de usuario
 - **Pickle** para la carga de modelos entrenados
 - **Google Colab** como entorno de desarrollo
+
+Link del video App funcionando: https://youtu.be/MxVXycA9fDo
